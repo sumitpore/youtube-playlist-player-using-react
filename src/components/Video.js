@@ -12,7 +12,8 @@ const Video = ({ active, autoplay, endCallback, progressCallback }) => (
         style={{ position: "absolute", top: "0"}}
         playing={autoplay}
         controls={true}
-        url={active.video}
+        url="/videos/33.mp4"
+        // url={active.video}
         onEnded={endCallback}
         onProgress={progressCallback}
       />
