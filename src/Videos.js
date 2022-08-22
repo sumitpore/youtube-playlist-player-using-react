@@ -1,9 +1,9 @@
-const Videos = {
-    "playlistId": "mvc-plugin-boilerplate-for-wordpress",
+const videos = {
+    "playlistId": "Mosh",
     "playlist": [
       {
-        "num": 1,
-        "title": "Creating a Base Plugin",
+        "num": 33,
+        "title": "mosh 3D",
         "id": "vxR6X8nFbXs",
         "duration": "3:20",
         "video": "https://www.youtube.com/embed/vxR6X8nFbXs"
@@ -22,14 +22,14 @@ const Videos = {
         "duration": "41:16",
         "video": "https://www.youtube.com/embed/e6OX9eES1RE"
       },
-      {
-        "num": 4,
-        "title": "Handling Admin Settings",
-        "id": "efhe0YLCmhs",
-        "duration": "08:29",
-        "video": "https://www.youtube.com/embed/efhe0YLCmhs"
-      }
+      // {
+      //   "num": 4,
+      //   "title": "Handling Admin Settings",
+      //   "id": "efhe0YLCmhs",
+      //   "duration": "08:29",
+      //   "video": "https://www.youtube.com/embed/efhe0YLCmhs"
+      // }
     ]
 }
 
-export default Videos;
+export default videos;

@@ -1,0 +1,206 @@
+{
+  "courses": [
+    {
+      "id": 999,
+      "title": "test",
+      "slug": "test",
+      "authorId": 1,
+      "category": "JavaScript",
+      "liked": true,
+      "description": "test",
+      "path": "/mosh/react/"
+    },
+    {
+      "id": 1,
+      "title": "React with mosh",
+      "slug": "react-with-mosh",
+      "authorId": 1,
+      "category": "JavaScript",
+      "liked": true,
+      "description": "Course for react",
+      "path": "/mosh/",
+      "videos": [
+        {
+          "title": "33.mp4",
+          "slug": "33.mp4",
+          "duration": "02:14"
+        },
+        {
+          "title": "34.mp4",
+          "slug": "34.mp4",
+          "duration": "02:04"
+        },
+        {
+          "title": "35.mp4",
+          "slug": "35.mp4",
+          "duration": "03:04"
+        },
+        {
+          "title": "lesson36_ShareAppsCrack.com setup project.mp4",
+          "slug": "lesson36_ShareAppsCrack.com setup project.mp4",
+          "duration": "05:38"
+        },
+        {
+          "title": "lesson37_ShareAppsCrack.com exercise.mp4",
+          "slug": "lesson37_ShareAppsCrack.com exercise.mp4",
+          "duration": "03:25"
+        },
+        {
+          "title": "lesson38_ShareAppsCrack.com movie component.mp4",
+          "slug": "lesson38_ShareAppsCrack.com movie component.mp4",
+          "duration": "07:18"
+        },
+        {
+          "title": "lesson39_ShareAppsCrack.com deleting a movie.mp4",
+          "slug": "lesson39_ShareAppsCrack.com deleting a movie.mp4",
+          "duration": "05:18"
+        },
+        {
+          "title": "lesson40_ShareAppsCrack.com conditional rendering.mp4",
+          "slug": "lesson40_ShareAppsCrack.com conditional rendering.mp4",
+          "duration": "03:26"
+        },
+        {
+          "title": "lesson41_ShareAppsCrack.com summary.mp4",
+          "slug": "lesson41_ShareAppsCrack.com summary.mp4",
+          "duration": "00:36"
+        },
+        {
+          "title": "lesson42_ShareAppsCrack.com summary.mp4",
+          "slug": "lesson42_ShareAppsCrack.com summary.mp4",
+          "duration": "00:45"
+        },
+        {
+          "title": "lesson43_ShareAppsCrack.com composing components.mp4",
+          "slug": "lesson43_ShareAppsCrack.com composing components.mp4",
+          "duration": "03:45"
+        },
+        {
+          "title": "lesson44_ShareAppsCrack.com.mp4",
+          "slug": "lesson44_ShareAppsCrack.com.mp4",
+          "duration": "03:11"
+        },
+        {
+          "title": "lesson45_ShareAppsCrack.com.mp4",
+          "slug": "lesson45_ShareAppsCrack.com.mp4",
+          "duration": "03:10"
+        },
+        {
+          "title": "lesson46_ShareAppsCrack.com.mp4",
+          "slug": "lesson46_ShareAppsCrack.com.mp4",
+          "duration": "04:09"
+        },
+        {
+          "title": "lesson47_ShareAppsCrack.com.mp4",
+          "slug": "lesson47_ShareAppsCrack.com.mp4",
+          "duration": "02:24"
+        },
+        {
+          "title": "lesson48_ShareAppsCrack.com.mp4",
+          "slug": "lesson48_ShareAppsCrack.com.mp4",
+          "duration": "04:52"
+        },
+        {
+          "title": "lesson49_ShareAppsCrack.com.mp4",
+          "slug": "lesson49_ShareAppsCrack.com.mp4",
+          "duration": "04:38"
+        },
+        {
+          "title": "lesson50_ShareAppsCrack.com.mp4",
+          "slug": "lesson50_ShareAppsCrack.com.mp4",
+          "duration": "03:55"
+        },
+        {
+          "title": "lesson51_ShareAppsCrack.com.mp4",
+          "slug": "lesson51_ShareAppsCrack.com.mp4",
+          "duration": "06:47"
+        },
+        {
+          "title": "lesson52_ShareAppsCrack.com.mp4",
+          "slug": "lesson52_ShareAppsCrack.com.mp4",
+          "duration": "05:53"
+        },
+        {
+          "title": "lesson53_ShareAppsCrack.com.mp4",
+          "slug": "lesson53_ShareAppsCrack.com.mp4",
+          "duration": "05:36"
+        },
+        {
+          "title": "lesson54_ShareAppsCrack.com.mp4",
+          "slug": "lesson54_ShareAppsCrack.com.mp4",
+          "duration": "02:29"
+        },
+        {
+          "title": "lesson55_ShareAppsCrack.com.mp4",
+          "slug": "lesson55_ShareAppsCrack.com.mp4",
+          "duration": "02:00"
+        },
+        {
+          "title": "lesson56_ShareAppsCrack.com.mp4",
+          "slug": "lesson56_ShareAppsCrack.com.mp4",
+          "duration": "01:38"
+        },
+        {
+          "title": "lesson57_ShareAppsCrack.com.mp4",
+          "slug": "lesson57_ShareAppsCrack.com.mp4",
+          "duration": "05:34"
+        },
+        {
+          "title": "lesson58_ShareAppsCrack.com.mp4",
+          "slug": "lesson58_ShareAppsCrack.com.mp4",
+          "duration": "04:20"
+        },
+        {
+          "title": "lesson59_ShareAppsCrack.com.mp4",
+          "slug": "lesson59_ShareAppsCrack.com.mp4",
+          "duration": "01:26"
+        },
+        {
+          "title": "lesson60_ShareAppsCrack.com.mp4",
+          "slug": "lesson60_ShareAppsCrack.com.mp4",
+          "duration": "01:05"
+        }
+      ]
+    }
+  ],
+  "authors": [
+    {
+      "id": 1,
+      "name": "Mosh hamadani"
+    },
+    {
+      "id": 2,
+      "name": "Tony Alicea"
+    },
+    {
+      "id": 3,
+      "name": "That aswome react guy"
+    }
+  ],
+  "videos": [
+    {
+      "id": 33,
+      "courseId": 1,
+      "name": "33",
+      "path": "33.mp4"
+    },
+    {
+      "id": 34,
+      "courseId": 1,
+      "name": "34",
+      "path": "34.mp4"
+    },
+    {
+      "id": 35,
+      "courseId": 1,
+      "name": "35",
+      "path": "35.mp4"
+    },
+    {
+      "id": 999,
+      "courseId": 2,
+      "name": "blabla",
+      "path": "xxx.mp4"
+    }
+  ]
+}
